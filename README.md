@@ -1,5 +1,5 @@
 Case1
--Kullanıcı, işe alım ekranlarını geçmelidir
+-Kullanıcı, işe alım ekranlarını geçmelidir /n
 -Kullanıcı ana sayfanın var olup olmadığını kontrol eder
 -Kullanıcı kategoriyi 'Bebek Bakımı' olarak değiştirir
 -Kullanıcı rastgele bir ürün detayını açar
